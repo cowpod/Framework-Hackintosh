@@ -1,4 +1,4 @@
-# Hackintosh MacOS Monterey on the Framework Laptop
+# MacOS Monterey on the Framework Laptop
 
 ##### What doesn't work
 - Integrated Graphics / IGPU
