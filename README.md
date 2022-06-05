@@ -17,4 +17,4 @@ Failed trying to get audio to work by spoofing TigerLake Intel Smart Sound Contr
 #
 With no thanks to: tony\*86. 
 *Actually, avoid any \*macx86 or elite\*86 websites. Please use r/hackintosh or osx86* 
-##### Framework community forums: https://community.frame.work .
+##### Framework community forums: https://community.frame.work/t/macos-on-framework-laptop/2957/39
