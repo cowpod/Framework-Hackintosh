@@ -1,5 +1,9 @@
 # MacOS Monterey on the Framework Laptop
 
+With OpenCore 0.8.0.
+https://dortania.github.io/OpenCore-Install-Guide/
+This EFI is the end product of the above guide. I suggest you follow the guide for IceLake Laptops, and then compare your EFI to mine.
+
 ##### What doesn't work
 - Integrated Graphics / IGPU
 - Graphics Acceleration / IGPU
@@ -15,4 +19,3 @@ Failed trying to get audio to work by spoofing TigerLake Intel Smart Sound Contr
 
 Framework community forums: https://community.frame.work/t/macos-on-framework-laptop/2957/39
 
-# https://dortania.github.io/OpenCore-Install-Guide/
