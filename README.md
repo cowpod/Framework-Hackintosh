@@ -15,4 +15,4 @@ Failed trying to get audio to work by spoofing TigerLake Intel Smart Sound Contr
 
 Framework community forums: https://community.frame.work/t/macos-on-framework-laptop/2957/39
 
-##### To install refind, boot to the EFI on a USB stick, open OpenShell.efi (it's an auxiliary item; hidden by default), and use BCFG to add refind_x64.efi to the boot list. You can then go to BIOS, and set it to first priority.
+# https://dortania.github.io/OpenCore-Install-Guide/
